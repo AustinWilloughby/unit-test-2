@@ -1,5 +1,5 @@
 // Max and min numbers for numbers returned by this utility
-const MAX = 20;
+const MAX = 15;
 const MIN = 0;
 
 // Prevent numbers from going outside of MIN and MAX
